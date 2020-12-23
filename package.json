@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Мой первый проект на Хекслете",
   "main": "index.js",
-  "type": "mpdule",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
